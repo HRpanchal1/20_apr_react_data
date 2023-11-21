@@ -1,0 +1,17 @@
+.input-fl , .btn-fl{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+.edit{
+    width: 200px;
+    background-color: green;
+    color: white;
+}
+.delet{
+    width: 200px;
+    background-color: red;
+    color: white;
+}

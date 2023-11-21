@@ -15,6 +15,8 @@ import Usecontext from './09Usecontext';
 import Usecontexthook from './10Usecontexthook';
 import Usereducer from './11Usereducer';
 import Usenavigate from './13Usenavigate';
+import Apipost from './15Apipost';
+import Crud from './16Crud';
 const Functionroutes = ()=>{
     return (
         <>
@@ -32,6 +34,8 @@ const Functionroutes = ()=>{
                 <Route path='Usecontexthook' element={<Usecontexthook/>}/>
                 <Route path='Usereducer' element={<Usereducer/>}/>
                 <Route path='Usenavigate' element={<Usenavigate/>}/>
+                <Route path='Apipost' element={<Apipost/>}/>
+                <Route path='Crud' element={<Crud/>}/>
             </Route>
           </Routes>
         </>

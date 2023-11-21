@@ -19,6 +19,8 @@ const Functionmenu = () => {
                 <li><Link to="Usecontexthook">Usecontexthook</Link></li>
                 <li><Link to="Usereducer">Usereducer</Link></li>
                 <li><Link to="Usenavigate">Usenavigate</Link></li>
+                <li><Link to="Apipost">Apipost</Link></li>
+                <li><Link to="Crud">Crud</Link></li>
             </ul>
             <Outlet></Outlet>
 
